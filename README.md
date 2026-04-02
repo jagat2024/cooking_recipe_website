@@ -37,7 +37,7 @@ Jagat-Di-Sweets/
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here after GitHub Pages)
+
 
 ---
 
